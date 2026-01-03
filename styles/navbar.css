@@ -1,0 +1,36 @@
+.side-bar {
+    display: flex;
+    position: fixed;
+    left: 0;
+    top: 60px;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 72px;
+    z-index: 200;
+    background-color: white;
+    
+}
+
+
+.nav-item {
+    display: flex;
+    align-items: center;
+    height: 74px;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 10px;
+    transition: background-color 0.15s; 
+}
+
+.nav-icon{
+    height: 24px;
+    margin-bottom: 6.5px;
+}
+
+.nav-item:hover {
+    background-color: rgb(238, 238, 238);
+    cursor: pointer;
+}
