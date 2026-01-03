@@ -38,9 +38,9 @@ A simple YouTube homepage UI clone built using only HTML and CSS.
 
 Roadmap for upgrading the project:
 
--  **Add JavaScript** for interactivity\
--  **Rebuild in React** for component-based UI\
--  **Add Backend** (final step)
+-  **Add JavaScript** for interactivity
+-  **Rebuild in React** for component-based UI
+-  **Add Backend**
 
 ------------------------------------------------------------------------
 
